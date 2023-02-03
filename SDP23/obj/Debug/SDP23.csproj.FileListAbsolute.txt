@@ -1,0 +1,6 @@
+C:\Users\Matt\source\repos\SDP23\bin\Debug\SDP23.dll
+C:\Users\Matt\source\repos\SDP23\bin\Debug\SDP23.pdb
+C:\Users\Matt\source\repos\SDP23\obj\Debug\SDP23.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\SDP23\obj\Debug\SDP23.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\SDP23\obj\Debug\SDP23.dll
+C:\Users\Matt\source\repos\SDP23\obj\Debug\SDP23.pdb

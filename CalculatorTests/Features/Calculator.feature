@@ -21,13 +21,10 @@ Scenario: Delta
 	Then the equation has 2 real number solutions
 
 Scenario Outline: Calculate number of real number solutions
-	Given the first coefficient is <x>
-	And the second coefficient is <y>
-	And the third coefficient is <z>
-	When the delta is calculated
-	Then the result should be <result>
+	When I calculate delta from <x>, <y>, <z> as coefficients of quadratic equation
+	Then the equation has <_numberOfSolutions> real number solutions
 Examples:
-| x | y | z |result|
-| 2 | 2 |-3 |   2  |
-| 1 | 4 | 4 |   1  |
-| 1 | 4 | 5 |   0  |
+| x | y | z |_numberOfSolutions|
+| 2 | 2 |-3 |		  2		   |
+| 1 | 4 | 4 |		  1		   |
+| 1 | 4 | 5 |		  0		   |

@@ -1330,24 +1330,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matt\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Matt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\CalculatorTests\\CalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\Documents\\GitHub\\zad7QA\\CalculatorTests\\CalculatorTests.csproj",
       "projectName": "CalculatorTests",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\CalculatorTests\\CalculatorTests.csproj",
+      "projectPath": "C:\\Users\\Matt\\Documents\\GitHub\\zad7QA\\CalculatorTests\\CalculatorTests.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\source\\repos\\CalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\Matt\\Documents\\GitHub\\zad7QA\\CalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1361,8 +1356,8 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\Users\\Matt\\source\\repos\\SDP23\\SDP23.csproj": {
-              "projectPath": "C:\\Users\\Matt\\source\\repos\\SDP23\\SDP23.csproj"
+            "C:\\Users\\Matt\\Documents\\GitHub\\zad7QA\\SDP23\\SDP23.csproj": {
+              "projectPath": "C:\\Users\\Matt\\Documents\\GitHub\\zad7QA\\SDP23\\SDP23.csproj"
             }
           }
         }
@@ -1394,7 +1389,7 @@
             "version": "[3.12.0, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
